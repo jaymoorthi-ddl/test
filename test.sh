@@ -1,1 +1,1 @@
-echo test2
+echo this is test1
